@@ -1,0 +1,23 @@
+{
+  "name": "sasi-converter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiranpadala102/sasi-converter1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiranpadala102/sasi-converter1/issues"
+  },
+  "homepage": "https://github.com/Kiranpadala102/sasi-converter1#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
